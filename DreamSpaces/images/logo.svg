@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dream Spaces Interior Designs logo">
+  <circle cx="40" cy="40" r="39" fill="#F5A623"/>
+  <circle cx="40" cy="40" r="39" fill="none" stroke="#111111" stroke-width="1"/>
+  <g fill="none" stroke="#111111" stroke-width="2.4" stroke-linecap="square">
+    <!-- Architectural floor-plan mark forming a "D / S" monogram -->
+    <path d="M24 56V24h9c8.8 0 15 6.8 15 16s-6.2 16-15 16h-9Z"/>
+    <path d="M33 30c5.5 0 9 4 9 10s-3.5 10-9 10" stroke-dasharray="0" opacity="0"/>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="2.2" stroke-linecap="round">
+    <path d="M50 30c0-3.3 3-5 6.5-5s6.5 1.9 6.5 5-3 4.4-6.5 5.2-6.5 2.6-6.5 5.8 3 5 6.5 5 6.5-1.7 6.5-5"/>
+  </g>
+  <circle cx="12" cy="12" r="1.6" fill="#111111"/>
+  <circle cx="68" cy="68" r="1.6" fill="#111111"/>
+</svg>
